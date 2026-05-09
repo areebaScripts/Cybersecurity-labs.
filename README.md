@@ -1,2 +1,2 @@
-# Cybersecurity-labs.
+# Cybersecurity-labs
 Cybersecurity labs and practice.
